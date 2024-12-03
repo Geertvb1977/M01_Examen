@@ -11,6 +11,7 @@ Sonny_is_thuis = False
 
 while Sonny_is_thuis != True:
     print("Sonny is er bijna")
+    input(int("Geef een getal in"))
     Sonny_is_thuis = True
 
 
